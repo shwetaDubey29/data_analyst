@@ -1,4 +1,4 @@
-# Intoduction
+# Introduction
 - This repository contains the projects done by me as part of the Data Analyst Course by Coding Invaders.
 
 
@@ -18,7 +18,8 @@
 <br/><br/>
 <b>Projects to be added</b>
 <br/><br/>
-[🔼 Back to top](#index)
+
+[🔼 Back to top](#introduction)
 
 ## Power BI Projects
 ### Data Operations Dashboard Project
@@ -29,7 +30,8 @@
 Below is the screenshot of the dashboard of the Capstone project
 
 <img src="/Power BI Projects/Data Operations Dashboard Project/Data Operations Dashboard.png">
-[🔼 Back to top](#index)
+
+[🔼 Back to top](#introduction)
 
 ### Capstone Project
 <a href="/Power BI Projects/Capstone Project/">Source Code of the project </a>
@@ -39,20 +41,21 @@ Below is the screenshot of the dashboard of the Capstone project
 Below is the screenshot of the dashboard of the Capstone project
 
 <img src="/Power BI Projects/Capstone Project/Capstone_project.png">
-[🔼 Back to top](#index)
+
+[🔼 Back to top](#introduction)
 
 ## Final Exam Take Home Assignments
 ### Final Exam Take Home Assignment (Google Sheet)
 <br/><br/>
 <b>Dummy text</b>
 <br/><br/>
-[🔼 Back to top](#index)
+[🔼 Back to top](#introduction)
 
 ### Final Exam Take Home Assignment (Power BI)
 <br/><br/>
 <b>Dummy text</b>
 <br/><br/>
-[🔼 Back to top](#index)
+[🔼 Back to top](#introduction)
 
 ## Additional Projects
 ### Automation of Analysis of Equity Report for NSE (Python)
@@ -60,11 +63,11 @@ Below is the screenshot of the dashboard of the Capstone project
 <br/><br/>
 <b>Dummy text</b>
 <br/><br/>
-[🔼 Back to top](#index)
+[🔼 Back to top](#introduction)
 
 ### Cointab Data Analyst Challenge (Python)
 <a href="/Additional Projects/Cointab Assignment/">Source Code of the project </a>
 <br/><br/>
 <b>Dummy text</b>
 <br/><br/>
-[🔼 Back to top](#index)
+[🔼 Back to top](#introduction)
