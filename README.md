@@ -1,7 +1,6 @@
 # data_analyst
 This repository contains the projects done as part of the Data Analyst Course by Coding Invaders.
-
-<hr>
+<br>
 Below are the projects done along with short description of each project:
 
 <table>
