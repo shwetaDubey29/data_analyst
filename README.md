@@ -3,25 +3,29 @@
 
 
 ## Index
+- [Google Sheets Projects](#google-sheets-projects)
 -  [Power BI Projects](#power-bi-projects)
-    - [Data Operations](#data-operations-dashboard-project)
+    - [Data Operations Dashboard Project](#data-operations-dashboard-project)
     - [Capstone Project](#capstone-project)
 - [Final Exam Take Home Assignments](#final-exam-take-home-assignments)
     - [Final Exam Take Home Assignment (Google Sheet)](#final-exam-take-home-assignment-google-sheet)
     - [Final Exam Take Home Assignment (Power BI)](#final-exam-take-home-assignment-power-bi)
+- [Additional Projects]()
 
-# Power BI Projects
+## Google Sheets Projects
 
-## Data Operations Dashboard Project
+## Power BI Projects
+
+### Data Operations Dashboard Project
 <a href="/Power BI Projects/Data Operations Dashboard Project/">Source Code of the project </a>
-<br/>
+<br/><br/>
 Below is the screenshot of the dashboard of the Capstone project
 
 <img src="/Power BI Projects/Data Operations Dashboard Project/Data Operations Dashboard.png">
 
-## Capstone Project
+### Capstone Project
 <a href="/Power BI Projects/Capstone Project/">Source Code of the project </a>
-<br/>
+<br/><br/>
 Below is the screenshot of the dashboard of the Capstone project
 
 <img src="/Power BI Projects/Capstone Project/Capstone_project.png">
@@ -32,6 +36,6 @@ Dummy text
 ### Final Exam Take Home Assignment (Google Sheet)
 Dummy text
 
-
-
 ### Final Exam Take Home Assignment (Power BI)
+
+## Additional Projects
