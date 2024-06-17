@@ -1,4 +1,4 @@
-# Intrtoduction
+# Intoduction
 - This repository contains the projects done as part of the Data Analyst Course by Coding Invaders.
 
 
@@ -9,6 +9,7 @@
     - [Final Exam Take Home Assignment (Power BI)](#final-exam-take-home-assignment-power-bi)
 
 # Capstone Project
+Source Code : <a href="/Final Exam_Take Home Assignment (Google Sheet)/Power BI Projects/Capstone Project"/>
 Below is the screenshot of the dashboard of the Capstone project
 
 <img src="/Power%20BI%20Projects/Capstone%20Project/Capstone_project.png">
