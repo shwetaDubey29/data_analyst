@@ -9,7 +9,7 @@
     - [Final Exam Take Home Assignment (Power BI)](#final-exam-take-home-assignment-power-bi)
 
 # Capstone Project
-<a href="/Final Exam_Take Home Assignment (Google Sheet)/Power BI Projects/Capstone Project">Source Code of the project </a>
+<a href="/Power BI Projects/Capstone Project/">Source Code of the project </a>
 <br/>
 Below is the screenshot of the dashboard of the Capstone project
 
