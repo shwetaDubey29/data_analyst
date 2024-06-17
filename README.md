@@ -13,7 +13,7 @@
 <br/>
 Below is the screenshot of the dashboard of the Capstone project
 
-<img src="/Power%20BI%20Projects/Capstone%20Project/Capstone_project.png">
+<img src="/Power BI Projects/Capstone Project/Capstone_project.png">
 
 ## Final Exam Take Home Assignments
 Dummy text
