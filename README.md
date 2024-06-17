@@ -19,6 +19,8 @@
 ### Data Operations Dashboard Project
 <a href="/Power BI Projects/Data Operations Dashboard Project/">Source Code of the project </a>
 <br/><br/>
+<b>Dummy text</b>
+<br/><br/>
 Below is the screenshot of the dashboard of the Capstone project
 
 <img src="/Power BI Projects/Data Operations Dashboard Project/Data Operations Dashboard.png">
@@ -26,16 +28,26 @@ Below is the screenshot of the dashboard of the Capstone project
 ### Capstone Project
 <a href="/Power BI Projects/Capstone Project/">Source Code of the project </a>
 <br/><br/>
+<b>Dummy text</b>
+<br/><br/>
 Below is the screenshot of the dashboard of the Capstone project
 
 <img src="/Power BI Projects/Capstone Project/Capstone_project.png">
 
 ## Final Exam Take Home Assignments
-Dummy text
 
 ### Final Exam Take Home Assignment (Google Sheet)
-Dummy text
+<br/><br/>
+<b>Dummy text</b>
+<br/><br/>
 
 ### Final Exam Take Home Assignment (Power BI)
+<br/><br/>
+<b>Dummy text</b>
+<br/><br/>
 
 ## Additional Projects
+<a href="/Additional Projects/Automation of Analysis of equity report for NSE/">Source Code of the project </a>
+<br/><br/>
+<b>Dummy text</b>
+<br/><br/>
