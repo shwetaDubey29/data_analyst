@@ -10,7 +10,7 @@
 # Capstone Project
 Below is the screenshot of the dashboard of the Capstone project
 
-<img src"/Power%20BI%20Projects/Capstone%20Project/Capstone_project.png">
+<img src="/Power%20BI%20Projects/Capstone%20Project/Capstone_project.png">
 
 ## Final Exam Take Home Assignment (Google Sheet)
 
