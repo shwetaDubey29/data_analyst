@@ -3,8 +3,8 @@
 
 
 ## Index
-- [Final Exam Take Home Assignment (Google Sheet)] (#final-exam-take-home-assignment-(Google-Sheet))
-- [Final Exam Take Home Assignment (Power BI)] (#)x 
+- [Final Exam Take Home Assignment (Google Sheet)](#final-exam-take-home-assignment-(Google-Sheet))
+- [Final Exam Take Home Assignment (Power BI)]
 
 
 ## Final exam take home assignment (GoogleSheet)
