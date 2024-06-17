@@ -11,6 +11,7 @@
     - [Final Exam Take Home Assignment (Google Sheet)](#final-exam-take-home-assignment-google-sheet)
     - [Final Exam Take Home Assignment (Power BI)](#final-exam-take-home-assignment-power-bi)
 - [Additional Projects]()
+- []
 
 ## Google Sheets Projects
 
@@ -47,7 +48,14 @@ Below is the screenshot of the dashboard of the Capstone project
 <br/><br/>
 
 ## Additional Projects
+### Automation of Analysis of Equity Report for NSE (Python)
 <a href="/Additional Projects/Automation of Analysis of equity report for NSE/">Source Code of the project </a>
+<br/><br/>
+<b>Dummy text</b>
+<br/><br/>
+
+### Cointab Data Analyst Challenge (Python)
+<a href="/Additional Projects/Cointab Assignment/">Source Code of the project </a>
 <br/><br/>
 <b>Dummy text</b>
 <br/><br/>
