@@ -10,8 +10,9 @@
 - [Final Exam Take Home Assignments](#final-exam-take-home-assignments)
     - [Final Exam Take Home Assignment (Google Sheet)](#final-exam-take-home-assignment-google-sheet)
     - [Final Exam Take Home Assignment (Power BI)](#final-exam-take-home-assignment-power-bi)
-- [Additional Projects]()
-- []
+- [Additional Projects](#additional-projects)
+    - [Automation of Analysis of Equity Report for NSE (Python)](#automation-of-analysis-of-equity-report-for-nse-python)
+    - [Cointab Data Analyst Challenge (Python)](#cointab-data-analyst-challenge-python)
 
 ## Google Sheets Projects
 <br/><br/>
