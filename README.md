@@ -10,6 +10,7 @@
 
 # Capstone Project
 <a href="/Final Exam_Take Home Assignment (Google Sheet)/Power BI Projects/Capstone Project">Source Code of the project </a>
+<br/>
 Below is the screenshot of the dashboard of the Capstone project
 
 <img src="/Power%20BI%20Projects/Capstone%20Project/Capstone_project.png">
