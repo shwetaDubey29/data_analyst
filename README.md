@@ -4,16 +4,19 @@
 
 ## Index
 - [Capstone Project](#capstone-project)
-- [Final Exam Take Home Assignment (Google Sheet)](#final-exam-take-home-assignment-(Google-Sheet))
-- [Final Exam Take Home Assignment (Power BI)](#final-exam-take-home-assignment-(power-bi))
+- [Final Exam Take Home Assignments](#final-exam-take-home-assignments)
+    - [Final Exam Take Home Assignment (Google Sheet)](#final-exam-take-home-assignment-(Google-Sheet))
+    - [Final Exam Take Home Assignment (Power BI)](#final-exam-take-home-assignment-(power-bi))
 
 # Capstone Project
 Below is the screenshot of the dashboard of the Capstone project
 
 <img src="/Power%20BI%20Projects/Capstone%20Project/Capstone_project.png">
 
-## Final Exam Take Home Assignment (Google Sheet)
+## Final Exam Take Home Assignments
+
+### Final Exam Take Home Assignment (Google Sheet)
 
 
 
-## Final Exam Take Home Assignment (Power BI)
+### Final Exam Take Home Assignment (Power BI)
