@@ -14,6 +14,9 @@
 - []
 
 ## Google Sheets Projects
+<br/><br/>
+<b>Projects to be added</b>
+<br/><br/>
 
 ## Power BI Projects
 
